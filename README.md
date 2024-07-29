@@ -42,4 +42,4 @@
 ## Решение
 
 1. 
-[test.yaml] Screenshot_1.png
+![alt text](Screenshot_1.png)
