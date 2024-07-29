@@ -43,3 +43,19 @@
 
 1. 
 ![alt text](Screenshot_1.png)
+`some_fact` = 12
+2. 
+![alt text](Screenshot_2.png)
+4. 
+![alt text](Screenshot_5.png)
+6. 
+![alt text](Screenshot_6.png)
+7. 
+![alt text](Screenshot_7.png)
+![alt text](Screenshot_8.png)
+8. 
+![alt text](Screenshot_9.png)
+9. 
+![alt text](Screenshot_10.png)
+11. 
+![alt text](Screenshot_11.png)
